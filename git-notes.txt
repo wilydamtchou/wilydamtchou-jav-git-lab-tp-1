@@ -1,0 +1,2 @@
+Git est un système de gestion de versions distribué.
+Il utilise un modèle basé sur des snapshots.
